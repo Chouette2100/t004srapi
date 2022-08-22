@@ -17,13 +17,13 @@
 
 	$ cd ~/go/src
 
-	$ curl -OL https://github.com/Chouette2100/t000srapi/archive/refs/tags/vn.n.n.tar.gz
-	$ tar xvf v1.0.0.tar.gz
-	$ mv t004srapi-1.0.0 t000srapi
+	$ curl -OL https://github.com/Chouette2100/t000srapi/archive/refs/tags/v0.0.0.tar.gz
+	$ tar xvf v0.0.0.tar.gz
+	$ mv t004srapi-0.0.0 t000srapi
 	$ cd t004srapi
 
-		以上4行は、Githubからソースをダウンロードしてます。vn.n.nのところは、ソースのバージョンを指定します。
-		バージョンは、Githubのリリースページで確認してください。
+		以上4行は、Githubからソースをダウンロードしてます。v0.0.0のところは、ソースのバージョンを指定します。
+		バージョンは、Githubのリリースページで確認してください（当面 v0.0.0 のままにしておくつもりですが）
 		ダウンロードはどんな方法でも構わなくて、極端な話Githubのソースをコピペでエディターに貼り付けてもOKです。
 		詳細は上に紹介した三つの記事にあります。
 
